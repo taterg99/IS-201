@@ -1,0 +1,125 @@
+.header{
+    position:absolute;
+    top: 5px;
+    left: 5px;
+    height: 100px;
+    right: 5px;
+    border: 1px;
+}
+.leftmenu{
+    position:absolute;
+    left: 5px;
+    width: 100px;
+    bottom: 210px;
+    top: 110px;
+}
+.mainbody{
+    position:absolute;
+    left: 110px;
+    right: 5px;
+    top: 110px;
+    bottom: 210px;
+}
+.footerleft{
+    position:fixed;
+    left: 5px;
+    bottom: 5px;
+    height: 200px;
+    width: 200px;
+}
+.footerright{
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+    height: 200px;
+    width: 300px;
+}
+.footermiddle{
+    position: absolute;
+    right: 210px;
+    left: 210px;
+    bottom: 5px;
+    height: 200px;
+}
+.bold{
+    font-weight: bold
+}
+.background{
+    background-color: #CEEDFF;
+}
+.image{
+    height: 100px;
+}
+.blacktext{
+    color: black;
+}
+.centertext{
+    text-align: center;
+}
+.aldercolor{
+    background-color: #d0a87d;
+    border: none;
+}
+.backgroundhovercolor:hover{
+    background-color: #ae8255;
+}
+.texthovercolor:hover{
+    color: #ae8255
+}
+.texthovercolor:hover + .subheaderhover{
+    color: #ae8255
+}
+.list-inline-item a:hover .fa-stack-2x {
+  color: #ae8255; /* Change this to your desired hover color */
+}
+.pagebackgroundcolor{
+    background-color: white;
+}
+.Italicize{
+    font-style: italic;
+}
+.resumestophover:hover {
+    color: black;
+}
+.subheadres{
+    font-size: 15px;
+}
+.rightalign{
+    text-align: right;
+}
+.name{
+    position: absolute;
+    top: 0%;
+    left: 5%;
+    transform: translate(-50%,-50%)
+    text-align: center;
+    color: black;
+}
+.linkstyle{
+    text-decoration: none;
+    color: black;
+}
+.hovercolor:hover{
+    text-decoration: underline;
+}
+.sectioncolor{
+    background-color: beige;
+}
+.fontcolorblue{
+    color: blue;
+}
+.fontfamily{
+    font-family: monospace;
+}
+.youtubestyle{
+    padding: 10px;
+    text-align: center;
+}
+.resume{
+    left: 500px;
+}
+.tableau{
+    width: 200x;
+    height: 20px;
+    bottom: 5px;
+}
